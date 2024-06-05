@@ -1,0 +1,17 @@
+models: internvl
+
+dimensions: hallucination
+
+data_dir: ../results
+save_dir: scores
+
+template_answer_in: unanswerable
+template_answer: err
+
+encoder_base: '/mnt/cachenew/gutianle/FacebookAI/roberta-large'
+encoder_model: '/mnt/cachenew/gutianle/guardrank/case-0419-clear_roberta-large_non-existent_lr2e-6_lanmix_epoch10_bs16_best_model.pt'
+
+decoder_base: '/mnt/cachenew/gutianle/modelscope/Llama-2-7b-ms'
+decoder_model: '/mnt/cachenew/gutianle/llama2-scorer-non-existent/checkpoint-1800'
+
+verbose: True

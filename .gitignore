@@ -1,0 +1,5 @@
+*/_pycache_/*
+*/tmp
+*.xlsx
+*.log
+*.jsonl

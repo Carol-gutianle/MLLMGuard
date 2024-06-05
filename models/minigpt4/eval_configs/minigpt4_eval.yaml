@@ -1,0 +1,23 @@
+model:
+  arch: minigpt4
+  model_type: pretrain_vicuna0
+  max_txt_len: 160
+  end_sym: "###"
+  low_resource: True
+  prompt_template: '###Human: {} ###Assistant: '
+  ckpt: "/mnt/cachenew/gutianle/prerained_minigpt4_7b.pth"
+  llama_model: /mnt/cachenew/gutianle/Vision-CAIR/vicuna-7b
+
+
+datasets:
+  cc_sbu_align:
+    vis_processor:
+      train:
+        name: "blip2_image_eval"
+        image_size: 224
+    text_processor:
+      train:
+        name: "blip_caption"
+
+run:
+  task: image_text_pretrain
