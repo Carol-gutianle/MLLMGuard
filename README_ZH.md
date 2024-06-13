@@ -2,10 +2,10 @@
 
 MLLMGuard是一个多维度的多模态大语言模型安全评测套件，包含一个双语图-文数据集，推理工具以及一个集成式端到端打分器GuardRank。
 
-[![Github Repo Stars](https://img.shields.io/github/stars/carol/mllmguard?style=social)](https://github.com/openlmlab/collie/stargazers)
+[![Github Repo Stars](https://img.shields.io/github/stars/Carol-gutianle/MLLMGuard?style=social)](https://github.com/Carol-gutianle/MLLMGuard/stargazers)
 [![HuggingFace badge](https://img.shields.io/badge/%F0%9F%A4%97HuggingFace-Data-yellow)](https://huggingface.co/datasets/Carol0110/MLLMGuard)
-[![GitHub issues](https://img.shields.io/github/issues/OpenLMLab/collie)](https://github.com/OpenLMLab/collie/issues)
-[![Doc](https://img.shields.io/badge/Doc-en-blue)](https://openlmlab-collie.readthedocs.io/zh_CN/latest/)
+[![GitHub issues](https://img.shields.io/github/issues/Carol-gutianle/MLLMGuard)](https://github.com/Carol-gutianle/MLLMGuard/issues)
+[![arXiv](https://img.shields.io/badge/arXiv-en-red)](https://arxiv.org/abs/2406.07594)
 
 ## 目录
 

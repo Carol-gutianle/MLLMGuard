@@ -3,6 +3,12 @@
 MLLMGuard is a multi-dimensional safety evaluation suite for MLLMs, including a bilingual
 image-text evaluation dataset, inference utilities, and a set of lightweight evaluators.
 
+[![Github Repo Stars](https://img.shields.io/github/stars/Carol-gutianle/MLLMGuard?style=social)](https://github.com/Carol-gutianle/MLLMGuard/stargazers)
+[![HuggingFace badge](https://img.shields.io/badge/%F0%9F%A4%97HuggingFace-Data-yellow)](https://huggingface.co/datasets/Carol0110/MLLMGuard)
+[![GitHub issues](https://img.shields.io/github/issues/Carol-gutianle/MLLMGuard)](https://github.com/Carol-gutianle/MLLMGuard/issues)
+[![arXiv](https://img.shields.io/badge/arXiv-en-red)](https://arxiv.org/abs/2406.07594)
+
+
 ## Table of Contents
 
 - [News](#news)
