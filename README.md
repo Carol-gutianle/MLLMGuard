@@ -91,6 +91,19 @@ You can add your own models by inheriting the `Mllm` class from `models/base.py`
 
 ## Quick Scoring using GuardRank
 
-You can use GuardRank for quick scoring. Please refer to [GuarRank](./guardrank/README.md) for the process.
+You can use GuardRank for quick scoring. Please refer to [GuardRank](./guardrank/README.md) for the process.
 
 ## Citation
+
+If you think this evaluation suite is helpful, please cite the paper.
+
+```text
+@misc{gu2024mllmguard,
+      title={MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models}, 
+      author={Tianle Gu and Zeyang Zhou and Kexin Huang and Dandan Liang and Yixu Wang and Haiquan Zhao and Yuanqi Yao and Xingge Qiao and Keqing Wang and Yujiu Yang and Yan Teng and Yu Qiao and Yingchun Wang},
+      year={2024},
+      eprint={2406.07594},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```

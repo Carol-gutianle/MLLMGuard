@@ -113,3 +113,16 @@ mkdir {data, results, logs}
 你可以使用GuardRank进行快速打分，过程请[参考](./guardrank/README_ZH.md)。
 
 ## 引用我们
+
+如果您对MLLMGuard感兴趣，可以以下面的方式引用我们。
+
+```text
+@misc{gu2024mllmguard,
+      title={MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models}, 
+      author={Tianle Gu and Zeyang Zhou and Kexin Huang and Dandan Liang and Yixu Wang and Haiquan Zhao and Yuanqi Yao and Xingge Qiao and Keqing Wang and Yujiu Yang and Yan Teng and Yu Qiao and Yingchun Wang},
+      year={2024},
+      eprint={2406.07594},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR}
+}
+```
