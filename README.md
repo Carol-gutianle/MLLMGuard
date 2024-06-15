@@ -8,7 +8,6 @@ image-text evaluation dataset, inference utilities, and a set of lightweight eva
 [![GitHub issues](https://img.shields.io/github/issues/Carol-gutianle/MLLMGuard)](https://github.com/Carol-gutianle/MLLMGuard/issues)
 [![arXiv](https://img.shields.io/badge/arXiv-en-red)](https://arxiv.org/abs/2406.07594)
 
-
 ## Table of Contents
 
 - [News](#news)
@@ -66,6 +65,8 @@ The currently available open-source dataset is the MLLMGuard(Public) split, whic
 ## LeaderBoard
 
 The leaderboard is a ranking od evaluated models, with scores based on GuardRank, using the unsanitized subset of the MLLMGuard(Public) split.
+
+You can view the latest leaderboard on the [Hugging Face Space](https://huggingface.co/spaces/Carol0110/MLLMGuardLeaderboard).
 
 ## Quick Evaluation using MLLMGuard
 

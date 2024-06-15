@@ -65,6 +65,8 @@ mkdir {data, results, logs}
 
 ## 排行榜 🏆
 
+您可以在HuggingFace Space[Hugging Face Space](https://huggingface.co/spaces/Carol0110/MLLMGuardLeaderboard)查看最新榜单。
+
 ## 使用MLLMGuard快速推理
 
 你可以在scripts中找到模型的推理脚本，我们提供了闭源模型和开源模型的推理脚本。
